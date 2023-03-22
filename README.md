@@ -2,21 +2,21 @@
 
 ![Revou Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZLg7_CDnun7DMrRiE-Dajd423j8u1dMs-Zw&usqp=CAU)
 
-This post i will show my most optimal syllabus based on research from others competitors and my experience. Blablabla
+This post i will show my most optimal syllabus based on research from others competitors and my experience. Observing how competitors do their learning paths will help in creating the most optimal syllabus for the SWE vertical RevoU.
 
 ----
 # Syllabus
-Syllabus consist of phase that will contain module for every important. Each phase will covering the differents main aspects in learning web developer.
+Syllabus consist of phase that will contain one or more module that cover all material from that phase. Each phase will covering the differents main aspects in learning web developer.
 
 ----
 
 ## Phase 1 Foundation
 Phase 1 will prepare the students before diving more into the world of internet and web development. Learn about terms that will be widely used in web development. How to use HTML and CSS to create simple web page and using versioning control Git GitHub for student for next phase.
 
-- ### Module 1 : Introduction Web Development
+- ### [Module 1 : Introduction Web Development](/introduction/)
     Introduction web development involves learning about internet, overview web development and history, introduction to _HyperText Markup Language_(HTML) and _Cascading Style Sheets_(CSS). 
 - ### Module 2 : HTML and CSS
-    Learn basic HTML tags and elements to define structure for web page. CSS syntax for styling web page and also 
+    Learn basic HTML tags and elements to define structure for web page. CSS syntax for styling web page and also principal of web design
 
 ----
 ## Phase 2 JavaScript Programming Language
